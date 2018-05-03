@@ -5,15 +5,15 @@
 `중점 - C#, Android, IOS`
 
 ##	멤버
-*	`김건우`
+*	`김건우`	[kkwoo94517](https://github.com/kkwoo94517) 
 *	`이성호`
-*	`김주연`
-*	`유종욱`
-*	`황재웅`
-*	`한강`
-*	`최윤혁`
+*	`김주연`[kj9130](https://github.com/kj9130)
+*	`유종욱`	[fnql](https://github.com/fnql)
+*	`황재웅`[Jeon91](https://github.com/Jeon91)
+*	`한강`	[kangtoe](https://github.com/kangtoe)
+*	`최윤혁`[nyangnyang2](https://github.com/nyangnyang2)
 *	`이현민`
-*	`김영인`
+*	`김영인`[iZeron](https://github.com/iZeron)
 
 ##	스터디
 *	2018/04/15 (시작 및 과제)
