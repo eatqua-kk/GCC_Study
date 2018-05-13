@@ -8,7 +8,7 @@
 *	`김건우`	[kkwoo94517](https://github.com/kkwoo94517) 
 *	`이성호`
 *	`김주연`[kj9130](https://github.com/kj9130)
-*	`유종욱`	[fnql](https://github.com/fnql)
+*	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
 *	`황재웅`[Jeon91](https://github.com/Jeon91)
 *	`한강`	[kangtoe](https://github.com/kangtoe)
 *	`최윤혁`[nyangnyang2](https://github.com/nyangnyang2)
