@@ -12,8 +12,8 @@
 *	`한강`	[kangtoe](https://github.com/kangtoe)
 *	`최윤혁`[gigadrillbreak](https://github.com/gigadrillbreak)
 *	`이현민`[sein1423](https://github.com/sein1423)
-*	`박수빈`
-*	`이준영`
+*	`박수빈`[Siby1lA](https://github.com/Siby1lA)
+*	`이준영`[moko0428](https://github.com/moko0428)
 *	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
 *	<del>`김영인`[iZeron](https://github.com/iZeron)</del>
 
