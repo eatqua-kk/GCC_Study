@@ -8,12 +8,14 @@
 *	`김건우`	[kkwoo94517](https://github.com/kkwoo94517) 
 *	`이성호`
 *	`김주연`[kj9130](https://github.com/kj9130)
-*	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
 *	`황재웅`[Jeon91](https://github.com/Jeon91)
 *	`한강`	[kangtoe](https://github.com/kangtoe)
 *	`최윤혁`[nyangnyang2](https://github.com/nyangnyang2)
 *	`이현민`
-*	`김영인`[iZeron](https://github.com/iZeron)
+*	`박수빈`
+*	`이준영`
+*	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
+*	<del>`김영인`[iZeron](https://github.com/iZeron)</del>
 
 ##	스터디
 *	2018/04/15 (시작 및 과제)
@@ -37,4 +39,11 @@
 	*	Start, Update
 	*	MVC 패턴에 대해 자세히 알아봅시다.
 	*	과제 Intro Scene를 직접 제작해봅시다.
+
+*	2018/05/18
+	*	복습 !
+	*	박수빈, 이준영
+	*	Private, Image, Button, Canvas
+	*	복습을 이제 한 번 더 했으니 제대로 Intro를 제작하여 커밋까지 완료합시다.
+	*	소스트리와 깃허브에 친숙해집시다.
 	
