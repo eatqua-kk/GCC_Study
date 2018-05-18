@@ -10,8 +10,8 @@
 *	`김주연`[kj9130](https://github.com/kj9130)
 *	`황재웅`[Jeon91](https://github.com/Jeon91)
 *	`한강`	[kangtoe](https://github.com/kangtoe)
-*	`최윤혁`[nyangnyang2](https://github.com/nyangnyang2)
-*	`이현민`
+*	`최윤혁`[gigadrillbreak](https://github.com/gigadrillbreak)
+*	`이현민`[sein1423](https://github.com/sein1423)
 *	`박수빈`
 *	`이준영`
 *	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
