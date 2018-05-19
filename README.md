@@ -6,7 +6,7 @@
 
 ##	멤버
 *	`김건우`	[kkwoo94517](https://github.com/kkwoo94517) 
-*	`이성호`
+*	`이성호` [seonghoo1217](https://github.com/seonghoo1217)
 *	`김주연`[kj9130](https://github.com/kj9130)
 *	`황재웅`[Jeon91](https://github.com/Jeon91)
 *	`한강`	[kangtoe](https://github.com/kangtoe)
