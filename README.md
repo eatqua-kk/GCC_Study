@@ -7,13 +7,13 @@
 ##	멤버
 *	`김건우`	[kkwoo94517](https://github.com/kkwoo94517) 
 *	`이성호` [seonghoo1217](https://github.com/seonghoo1217)
+*	`김주연`[kj9130](https://github.com/kj9130)
 *	`황재웅`[Jeon91](https://github.com/Jeon91)
 *	`한강`	[kangtoe](https://github.com/kangtoe)
 *	`최윤혁`[gigadrillbreak](https://github.com/gigadrillbreak)
 *	`이현민`[sein1423](https://github.com/sein1423)
 *	`박수빈`[Siby1lA](https://github.com/Siby1lA)
 *	`이준영`[moko0428](https://github.com/moko0428)
-*	<del>`김주연`[kj9130](https://github.com/kj9130)</del>
 *	<del>`유종욱`	[fnql](https://github.com/fnql)</del>
 *	<del>`김영인`[iZeron](https://github.com/iZeron)</del>
 
@@ -47,11 +47,3 @@
 	*	복습을 이제 한 번 더 했으니 제대로 Intro를 제작하여 커밋까지 완료합시다.
 	*	소스트리와 깃허브에 친숙해집시다.
 	
-*	2018/05/25
-	*	Unity Flow
-	*	Google - 유니티 2d 게임 만들기 - 검색
-	*	자신이 도움 될만한 강좌를 선택하여 스스로 공부해오기
-		*	참고한 강좌
-		*	알아낸 유니티 함수
-		*	막힌 문제점, 만든 소스 주석으로 설명
-		*	따라해보며 프로젝트 소스트리에 push

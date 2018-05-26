@@ -1,6 +1,6 @@
 ﻿public class Person {
 
-	private string name = "최윤혁";
+	public string name = "최윤혁";
 	private	float tall;
 	private int age = 20;
 
